@@ -1,6 +1,6 @@
 {
     "name": "bugsheng/functional-respond",
-	"description": "Laravel Lumen response api",
+	"description": "a functional respond trait",
     "license": "MIT",
     "authors": [
         {
